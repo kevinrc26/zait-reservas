@@ -13,7 +13,7 @@ function zait_cambiar_fondo_spa() {
     <style type="text/css">
         /* Cambia el fondo del cuerpo de la página a un color crema relajante */
         body.page-template-default, .site-content {
-            background-color: #red !important;
+            background-color: red !important;
         }
     </style>
     <?php
